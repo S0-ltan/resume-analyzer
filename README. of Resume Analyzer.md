@@ -14,20 +14,6 @@ Sentiment classification (Positive, Negative, Neutral).
 
 Job category matching using semantic similarity.
 
-🛠️ Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/resume-analyzer.git
-
-Navigate to the project folder:
-
-cd resume-analyzer
-
-Install dependencies:
-
-pip install -r requirements.txt
-
 🚀 Usage
 
 Run the main script with:
