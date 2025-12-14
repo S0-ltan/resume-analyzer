@@ -20,11 +20,6 @@ Run the main script with:
 
 python main.py
 
-📂 Project Structure
-
-resume-analyzer/
-├── src/                # Source code
-└── README.md           # Project overview
 
 📊 Example Output
 
@@ -46,3 +41,6 @@ Add categories for Data Scientist and Machine Learning Engineer.
 Improve sentiment analysis with ML models.
 
 Build a web interface for uploading resumes.
+
+## Author
+Sultan – ml Engineer
